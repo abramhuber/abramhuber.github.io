@@ -4,13 +4,13 @@ Welcome to my official online business card! I'm Abram, a passionate and experie
 
 ---
 
-👨🏻‍💼## About Me
+👨🏻‍💼 ## About Me
 
 With over 25 years of experience in woodworking, I specialize in designing, building, and restoring custom furniture, cabinetry, and other wooden creations. My mission is to deliver timeless craftsmanship tailored to your unique needs.
 
 ---
 
-🪚## Services Offered
+## Services Offered 🪚
 
 ### Custom Furniture
 - Handcrafted tables, chairs, and desks
