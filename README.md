@@ -48,9 +48,9 @@ Ready to bring your woodworking vision to life? Let's connect!
 
 **Phone:** [Your fake Phone Number]  
 **Email:** [Your Email Address]  
-**Location:** San Francisco Bay Area 
-**Yelp:** [Your Social Media Handle or Links]
-**Nextdoor:** [Your Social Media Handle or Links]
+**Location:** San Francisco Bay Area  
+**Yelp:** [Your Social Media Handle or Links]  
+**Nextdoor:** [Your Social Media Handle or Links]  
 
 ---
 
