@@ -49,7 +49,7 @@ Ready to bring your woodworking vision to life? Let's connect!
 **Phone:** [Your fake Phone Number]  
 **Email:** [Your Email Address]  
 **Location:** San Francisco Bay Area  
-**Yelp:** [Your Social Media Handle or Links]  
+**Yelp:** [[Visit my Yelp page!](https://www.yelp.com/biz/ah-artisanal-woodworking-san-jose?osq=AH+artisanal)]  
 **Nextdoor:** [Your Social Media Handle or Links]  
 
 ---
