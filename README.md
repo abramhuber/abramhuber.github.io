@@ -46,10 +46,10 @@ Explore some of my recent projects:
 
 Ready to bring your woodworking vision to life? Let's connect!
 
-**Phone:** [+1 (603)-998-6215]  
-**Email:** [artisanco@gmail.com]  
+**Phone:** (603) XXX-XXXX  
+**Email:** artisanco@gmail.com
 **Location:** San Francisco Bay Area  
-**Yelp:** [[Visit my Yelp page!](https://www.yelp.com/biz/ah-artisanal-woodworking-san-jose?osq=AH+artisanal)]  
+**Yelp:** [Visit my Yelp page!](https://www.yelp.com/biz/ah-artisanal-woodworking-san-jose?osq=AH+artisanal)
 **Nextdoor:** [Your Social Media Handle or Links]  
 
 ---
