@@ -46,8 +46,8 @@ Explore some of my recent projects:
 
 Ready to bring your woodworking vision to life? Let's connect!
 
-**Phone:** [Your fake Phone Number]  
-**Email:** [Your Email Address]  
+**Phone:** [+1 (603)-998-6215]  
+**Email:** [artisanco@gmail.com]  
 **Location:** San Francisco Bay Area  
 **Yelp:** [[Visit my Yelp page!](https://www.yelp.com/biz/ah-artisanal-woodworking-san-jose?osq=AH+artisanal)]  
 **Nextdoor:** [Your Social Media Handle or Links]  
@@ -56,9 +56,9 @@ Ready to bring your woodworking vision to life? Let's connect!
 
 ## Testimonials
 
-> "[Your Name] transformed our living room with a stunning custom bookshelf. Highly recommend!" - Happy Client
+> "Abram transformed our living room with a stunning custom bookshelf. Highly recommend!" - Happy Client
 
-> "Professional and skilled, [Your Name] restored our antique dining set to its former glory." - Satisfied Customer
+> "Professional and skilled, Mr. Huber restored our antique dining set to its former glory." - Satisfied Customer
 
 ---
 
