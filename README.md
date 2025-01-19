@@ -46,7 +46,7 @@ Explore some of my recent projects:
 
 Ready to bring your woodworking vision to life? Let's connect!
 
-**Phone:** [Your Phone Number]  
+**Phone:** [Your fake Phone Number]  
 **Email:** [Your Email Address]  
 **Location:** San Francisco Bay Area 
 **Yelp:** [Your Social Media Handle or Links]
